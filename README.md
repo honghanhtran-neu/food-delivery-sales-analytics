@@ -83,11 +83,10 @@ Bengaluru generated approximately **$2.71M** in observed sales value,
 representing around **10.3%** of the current total.
 
 It is the strongest-performing city, ahead of Lucknow, Mumbai, Hyderabad
-and New Delhi. :contentReference[oaicite:2]{index=2}
+and New Delhi.
 
 However, Bengaluru's average rating is approximately **4.31**, slightly below
-the overall average of **4.34**. :contentReference[oaicite:3]{index=3}
-
+the overall average of **4.34**.
 ### Business insight
 
 > **High commercial performance does not necessarily mean the strongest customer experience.**
@@ -116,7 +115,7 @@ In the current dashboard view:
 | Non-Veg | $9.34M | $325.85 |
 
 Veg contributes approximately **64.4% of observed sales value**, while
-Non-Veg has an average recorded price approximately **33% higher**. :contentReference[oaicite:4]{index=4}
+Non-Veg has an average recorded price approximately **33% higher**.
 
 ### Business insight
 
@@ -152,7 +151,7 @@ The top restaurants by observed sales value include:
 | Domino's Pizza | $0.89M |
 
 The top five restaurants contribute approximately **25.2% of observed
-sales value**. :contentReference[oaicite:5]{index=5}
+sales value**.
 
 ### Business insight
 
@@ -190,7 +189,7 @@ Observed sales value by day:
 | Monday | $3.68M |
 | Tuesday | $3.64M |
 
-The difference between the highest and lowest days is relatively small. :contentReference[oaicite:6]{index=6}
+The difference between the highest and lowest days is relatively small.
 
 ### Business insight
 
@@ -224,7 +223,7 @@ Monthly observed sales value:
 January is the strongest month in the current dashboard view.
 
 February experienced an approximately **8.1% month-over-month decline**, followed
-by a recovery in March. :contentReference[oaicite:7]{index=7}
+by a recovery in March.
 
 ### Business insight
 
@@ -249,7 +248,7 @@ assuming the decline was caused by any one factor.
 ## 7. High-value markets should be evaluated together with customer ratings
 
 Hyderabad generated approximately **₹1.48M** in observed sales value but had
-an average rating of **4.27**, below the overall average of **4.34**. :contentReference[oaicite:8]{index=8}
+an average rating of **4.27**, below the overall average of **4.34**.
 
 ### Business insight
 
@@ -324,7 +323,7 @@ The dataset contains:
 - **28 states/cities**
 - **993 restaurants**
 - **59,064 unique dishes**
-- **2 food types: Veg and Non-Veg** :contentReference[oaicite:9]{index=9}
+- **2 food types: Veg and Non-Veg**
 
 Key fields:
 
