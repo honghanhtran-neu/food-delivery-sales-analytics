@@ -112,8 +112,8 @@ In the current dashboard view:
 
 | Food Type | Sales Value | Average Price |
 |---|---:|---:|
-| Veg | ₹16.92M | ₹245.17 |
-| Non-Veg | ₹9.34M | ₹325.85 |
+| Veg | $16.92M | $245.17 |
+| Non-Veg | $9.34M | $325.85 |
 
 Veg contributes approximately **64.4% of observed sales value**, while
 Non-Veg has an average recorded price approximately **33% higher**. :contentReference[oaicite:4]{index=4}
@@ -145,11 +145,11 @@ The top restaurants by observed sales value include:
 
 | Restaurant | Sales Value |
 |---|---:|
-| KFC | ₹2.09M |
-| McDonald's | ₹1.65M |
-| Pizza Hut | ₹1.04M |
-| Burger King | ₹0.93M |
-| Domino's Pizza | ₹0.89M |
+| KFC | $2.09M |
+| McDonald's | $1.65M |
+| Pizza Hut | $1.04M |
+| Burger King | $0.93M |
+| Domino's Pizza | $0.89M |
 
 The top five restaurants contribute approximately **25.2% of observed
 sales value**. :contentReference[oaicite:5]{index=5}
@@ -182,13 +182,13 @@ Observed sales value by day:
 
 | Day | Sales Value |
 |---|---:|
-| Saturday | ₹3.88M |
-| Wednesday | ₹3.88M |
-| Thursday | ₹3.75M |
-| Friday | ₹3.72M |
-| Sunday | ₹3.71M |
-| Monday | ₹3.68M |
-| Tuesday | ₹3.64M |
+| Saturday | $3.88M |
+| Wednesday | $3.88M |
+| Thursday | $3.75M |
+| Friday | $3.72M |
+| Sunday | $3.71M |
+| Monday | $3.68M |
+| Tuesday | $3.64M |
 
 The difference between the highest and lowest days is relatively small. :contentReference[oaicite:6]{index=6}
 
@@ -216,10 +216,10 @@ Monthly observed sales value:
 
 | Month | Sales Value |
 |---|---:|
-| January | ₹6.83M |
-| February | ₹6.27M |
-| March | ₹6.57M |
-| April | ₹6.59M |
+| January | $6.83M |
+| February | $6.27M |
+| March | $6.57M |
+| April | $6.59M |
 
 January is the strongest month in the current dashboard view.
 
