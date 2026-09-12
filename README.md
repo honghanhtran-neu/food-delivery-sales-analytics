@@ -247,7 +247,7 @@ assuming the decline was caused by any one factor.
 
 ## 7. High-value markets should be evaluated together with customer ratings
 
-Hyderabad generated approximately **₹1.48M** in observed sales value but had
+Hyderabad generated approximately **$1.48M** in observed sales value but had
 an average rating of **4.27**, below the overall average of **4.34**.
 
 ### Business insight
