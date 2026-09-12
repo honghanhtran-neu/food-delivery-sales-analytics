@@ -328,7 +328,7 @@ The dataset contains:
 Key fields:
 
 `City` · `Order Date` · `Restaurant Name` · `Category` · `Dish Name`
-· `Food Type` · `Price (INR)` · `Rating` · `Rating Count`
+· `Food Type` · `Price (USD)` · `Rating` · `Rating Count`
 
 ## Data Preparation
 
